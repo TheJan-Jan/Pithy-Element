@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "pnpm --filter @pithy-element/play dev",
-    "docs:dev":"pnpm --filter @pithy-element/docs dev",
-    "docs:bulid":"pnpm --filter @pithy-element/docs bulid",
+    "docs:dev": "pnpm --filter @pithy-element/docs dev",
+    "docs:build": "pnpm --filter @pithy-element/docs build",
     "test": "echo \"todo\""
   },
   "keywords": [],
